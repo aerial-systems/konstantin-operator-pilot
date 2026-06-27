@@ -3,7 +3,7 @@
 Public offer page for the Tasa.world Konstantin Autonomous Operator Pilot.
 
 - Offer page: https://aerial-systems.github.io/konstantin-operator-pilot/
-- Stripe checkout: not configured
+- Stripe checkout: https://book.stripe.com/cNi6oG5TRc4OdsH1Ki1ZS00
 - Checkout id: konstantin_codex_gpt55_1782581348908
 - Launch run: launch_konstantin_codex_gpt55_1782581348908_mqwmwrot
 
